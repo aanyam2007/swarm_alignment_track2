@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# generated artifacts (reproducible from the frozen corpus; keep the corpus if you like)
+artifacts/
+!artifacts/.gitkeep
